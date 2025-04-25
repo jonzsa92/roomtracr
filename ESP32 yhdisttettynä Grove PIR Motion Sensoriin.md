@@ -32,9 +32,7 @@ Yhdistettynä, pitäisi näyttää tältä.
 ![20250425_092815](https://github.com/user-attachments/assets/991e40ca-69bb-47c1-b972-3537296c59b8)
 
 
-
-
-#Koodi
+# Koodi
 
 Lataa Arduino IDE ohjelma. Asenna se.
 Ensin piirilevyn asennus. Arduino IDE:ssä -> Tools -> Board -> Board Manager. Hakukenttään laita esp32. Lataa (varmuuden vuoksi) ne mitkä löytyvät hakukentässä. Itsellä oli nämä: 
