@@ -2,14 +2,19 @@
 
 # Laitteet käytössä:
 Wemos D1 R32
+
 Grove PIR Motion Sensor
 
-#Muut vaadittavat asiat:
+Muut vaadittavat asiat:
+
 Grove to M hyppyrijohdin
+
 microUSB – USB - kaapeli
+
 (Windows) Arduino IDE
 
-#Laitteiden yhdistäminen
+# Laitteiden yhdistäminen
+
 Yhdistä Grove johdon pääty liiketunnistimeen. Katso piirin alta, mihin kohtaan mikäkin johto osuu. 
 
 ![20250425_092844](https://github.com/user-attachments/assets/0971e46d-3752-491f-a67b-c37827d6318b)
