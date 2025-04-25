@@ -1,6 +1,6 @@
-## ESP32 yhdistettynä Grove PIR Motion Sensoriin
+# ESP32 yhdistettynä Grove PIR Motion Sensoriin
 
-# Laitteet käytössä:
+## Laitteet käytössä:
 Wemos D1 R32
 
 Grove PIR Motion Sensor
@@ -13,7 +13,7 @@ microUSB – USB - kaapeli
 
 (Windows) Arduino IDE
 
-# Laitteiden yhdistäminen
+## Laitteiden yhdistäminen
 
 Yhdistä Grove johdon pääty liiketunnistimeen. Katso piirin alta, mihin kohtaan mikäkin johto osuu. 
 
@@ -37,7 +37,7 @@ Yhdistettynä, pitäisi näyttää tältä.
 ![20250425_092815](https://github.com/user-attachments/assets/991e40ca-69bb-47c1-b972-3537296c59b8)
 
 
-# Koodi
+## Koodi
 
 Lataa Arduino IDE ohjelma. Asenna se.
 Ensin piirilevyn asennus. Arduino IDE:ssä -> Tools -> Board -> Board Manager. Hakukenttään laita esp32. Lataa (varmuuden vuoksi) ne mitkä löytyvät hakukentässä. Itsellä oli nämä: 
@@ -106,5 +106,5 @@ Jos kaikki meni oikein, avaa Tools -> Serial Monitor. Tämä avaa terminal näky
 
 Jos näin, onneksi olkoon! Sinulla on nyt toimiva liiketunnistin!
 
-Troubleshooting: WIP
+## Troubleshooting: WIP
 
