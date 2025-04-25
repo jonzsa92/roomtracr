@@ -1,4 +1,4 @@
-## ESP32 yhdisttettynä Grove PIR Motion Sensoriin
+## ESP32 yhdistettynä Grove PIR Motion Sensoriin
 
 # Laitteet käytössä:
 Wemos D1 R32
