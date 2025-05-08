@@ -1,6 +1,6 @@
 # ESP32:n liiketunnistimen datan lähetys nettiin.
 
-1. Tehdään uusi tietokanta Pukkiin keräämään ESP32:n data.
+1. Tehdään uusi tietokanta (esim. Pukki) keräämään ESP32:n data.
 2. Tehdään REST API saamaan data ja kirjoittamaan se tietokantaan
 3. ESP32 lähettää PIR datan HTTP POST:illa
 
